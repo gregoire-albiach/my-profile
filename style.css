@@ -3,3 +3,20 @@
 body{
 	background-color: #EBE6F1;
 }
+
+.container{
+	display: flex;	
+}
+
+.subcontainer{
+	display: flex;
+	flex-direction: column;
+}
+
+.card-img{
+		
+}
+
+.img-profile{
+	border-radius: 50%;	
+}
