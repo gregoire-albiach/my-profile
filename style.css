@@ -14,9 +14,12 @@ body{
 }
 
 .card-img{
-		
+	background-color: white;
+	padding: 12px;
+	text-align: center;
 }
 
 .img-profile{
-	border-radius: 50%;	
+	border-radius: 50%;
+	width: 120px;
 }
