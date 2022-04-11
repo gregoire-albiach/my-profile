@@ -8,6 +8,7 @@ body{
 .container{
 	display: flex;
 	align-items: center;
+	justify-content: center;
 }
 
 .subcontainer{
@@ -21,14 +22,13 @@ body{
 }
 
 .img-profile{
-	border-radius: 10%;
+	border-radius: 50%;
 	width: 120px;
 	height: 120px;
 }
 
 .subcard{
 	background-color: #CCC1DC;
-	border-radius: 6px;
 	padding: 12px;
 	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 }
