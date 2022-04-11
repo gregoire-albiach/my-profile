@@ -11,11 +11,6 @@ body{
 	justify-content: center;
 }
 
-.subcontainer{
-	display: flex;
-	flex-direction: column;
-}
-
 .card-img{
 	text-align: center;
 	margin-right: 26px;
